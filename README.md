@@ -4,7 +4,7 @@
 <hr>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=omancosta&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omancosta&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omancosta&layout=compact)
 
 
 <!--
